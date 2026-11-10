@@ -1,10 +1,11 @@
 # Gley Demos
 
-Playable demo builds of Gley Unity plugins: WebGL in the browser, PC and Android downloads.
+Playable demos of Gley Unity plugins: play the WebGL demo in your browser, or download the PC and Android builds.
 
-- WebGL: https://gleygames.github.io/demos/<plugin>/
-- PC and Android: one release per plugin under [Releases](https://github.com/gleygames/demos/releases)
+| Plugin | WebGL | PC and Android |
+|---|---|---|
+| Save System | [Play in your browser](https://demos.gleygames.com/save-system/) | [Downloads](https://github.com/gleygames/demos/releases/tag/save-system) |
 
-Plugins and documentation: https://gleygames.com
+Documentation for every plugin: https://gleygames.com/docs/
 
-This repository holds builds only. The files are replaced on every plugin release, so links stay the same.
+This repository holds builds only. A plugin's files are replaced when its demo is rebuilt, so the links stay the same.
